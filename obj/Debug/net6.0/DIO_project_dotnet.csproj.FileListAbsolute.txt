@@ -1,0 +1,15 @@
+C:\Users\Administrador\DIO_project_dotnet\bin\Debug\net6.0\DIO_project_dotnet.exe
+C:\Users\Administrador\DIO_project_dotnet\bin\Debug\net6.0\DIO_project_dotnet.deps.json
+C:\Users\Administrador\DIO_project_dotnet\bin\Debug\net6.0\DIO_project_dotnet.runtimeconfig.json
+C:\Users\Administrador\DIO_project_dotnet\bin\Debug\net6.0\DIO_project_dotnet.dll
+C:\Users\Administrador\DIO_project_dotnet\bin\Debug\net6.0\ref\DIO_project_dotnet.dll
+C:\Users\Administrador\DIO_project_dotnet\bin\Debug\net6.0\DIO_project_dotnet.pdb
+C:\Users\Administrador\DIO_project_dotnet\obj\Debug\net6.0\DIO_project_dotnet.csproj.AssemblyReference.cache
+C:\Users\Administrador\DIO_project_dotnet\obj\Debug\net6.0\DIO_project_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\DIO_project_dotnet\obj\Debug\net6.0\DIO_project_dotnet.AssemblyInfoInputs.cache
+C:\Users\Administrador\DIO_project_dotnet\obj\Debug\net6.0\DIO_project_dotnet.AssemblyInfo.cs
+C:\Users\Administrador\DIO_project_dotnet\obj\Debug\net6.0\DIO_project_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\DIO_project_dotnet\obj\Debug\net6.0\DIO_project_dotnet.dll
+C:\Users\Administrador\DIO_project_dotnet\obj\Debug\net6.0\ref\DIO_project_dotnet.dll
+C:\Users\Administrador\DIO_project_dotnet\obj\Debug\net6.0\DIO_project_dotnet.pdb
+C:\Users\Administrador\DIO_project_dotnet\obj\Debug\net6.0\DIO_project_dotnet.genruntimeconfig.cache
